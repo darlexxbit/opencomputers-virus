@@ -15,4 +15,4 @@ while a < 15 do
   computer.beep(2000, 0.1)
   a = a+1
 end
--- computer.shutdown(true)
+computer.shutdown(true)
